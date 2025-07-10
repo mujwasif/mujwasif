@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mujtaba Wasif Pritom
 
 ### 🧑‍💻 Aspiring Software Engineer | Full-stack Developer | ML Enthusiast  
-🚀 Passionate about building impactful software and diving deep into data
+
 
 ---
 
@@ -22,52 +22,15 @@ I enjoy learning by doing, and I love building cool, useful things with code. Cu
 - **Deep Learning:** BiLSTM, BERT, BanglaBERT, Multilingual BERT  
 - **Embeddings:** GloVe, FastText
 
----
-
-## 📂 Projects
-
-### 🔍 [Bangla Sentiment Analysis](https://github.com/MusashiKensei/Bangla-Sentiment-Analysis)  
-🎓 My undergrad thesis — 34,800+ Bengali product reviews from Daraz analyzed using ML/DL models  
-📦 Used GloVe, FastText, BiLSTM, and multiple BERT variants  
-📄 [Thesis Paper](https://dspace.bracu.ac.bd/xmlui/handle/10361/25480)
 
 ---
 
-### 💊 [Online Drug Store](https://github.com/mujwasif/Drug-store)  
-An e-commerce site for ordering medications online with basic cart and order functionality.
-
-### 🖥️ [PC Parts Retailer](https://github.com/MusashiKensei/Computer-Parts-Retailer)  
-An online platform for purchasing computer hardware components.
-
-### 🚌 [Bus Management System](https://github.com/MusashiKensei/Bus-Management-System)  
-Ticket booking and seat management system for bus services.
-
----
-
-## 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujwasif&show_icons=true&theme=radical" alt="Muj's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mujwasif&theme=radical" />
-</p>
-
----
-
-## 🧠 Currently Learning
-
-- Docker & Deployment  
-- Advanced Django  
-- Transformers for NLP  
-
----
 
 ## 📫 Get in Touch
 
 - 📧 mujtabawasif2018@gmail.com  
-- 💬 [GitHub Issues](https://github.com/mujwasif) — drop a comment on any repo  
+- 💬 https://github.com/mujwasif
 - 💼 Portfolio coming soon...
 
 ---
 
-> “Stay curious. Break things. Fix them better.”
