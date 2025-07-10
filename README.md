@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Mujtaba Wasif Pritom
 
-### 🧑‍💻 Aspiring Software Engineer | Full-stack Developer | ML Enthusiast  
 
 
 ---
@@ -30,7 +29,6 @@ I enjoy learning by doing, and I love building cool, useful things with code. Cu
 
 - 📧 mujtabawasif2018@gmail.com  
 - 💬 https://github.com/mujwasif
-- 💼 Portfolio coming soon...
 
 ---
 
