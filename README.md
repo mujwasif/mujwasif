@@ -28,7 +28,8 @@ I enjoy learning by doing, and I love building cool, useful things with code. Cu
 ## 📫 Get in Touch
 
 - 📧 mujtabawasif2018@gmail.com  
-- 💬 https://github.com/mujwasif
-- 🔗 linkedin.com/in/mujtaba-wasif-aa472b250
+- 💬 [GitHub](https://github.com/mujwasif)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mujtaba-wasif-aa472b250)
+
 ---
 
